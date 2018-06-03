@@ -1,5 +1,7 @@
 # DCGAN-Keras
-Deep Convolutional Generative Adverasrial Network in Keras 
+Deep Convolutional Generative Adverasrial Network in Keras (Tensorflow backend)
+
+A DCGAN model to generate images from the MNIST handwritten digit dataset .
 
 1 . Images are normalized to [-1,1]
 
@@ -11,3 +13,7 @@ Deep Convolutional Generative Adverasrial Network in Keras
 4 . Upsampling followed by Convolution layers are used to increase the resolution of the image .
 
 5 . Optimizer : Adam
+
+Result after 80 epochs :
+
+![alt text](https://raw.githubusercontent.com/Neerajj9/DCGAN-Keras/output/80.png)
