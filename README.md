@@ -16,4 +16,4 @@ A DCGAN model to generate images from the MNIST handwritten digit dataset .
 
 Result after 80 epochs :
 
-![alt text](./Neerajj9/DCGAN-Keras/Output/80.png)
+![alt text](./Output/80.png)
