@@ -6,6 +6,7 @@ A DCGAN model to generate images from the MNIST handwritten digit dataset .
 1 . Images are normalized to [-1,1]
 
 2 . Activation function for the last layer - tanh 
+
     Activation function for other layers - LeakyReLU
 
 3 . No Fully Connected Layers used in the model .                         
